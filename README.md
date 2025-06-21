@@ -4,11 +4,14 @@ Una aplicación desarrollado en Android Studio como trabajo fin de curso del cur
 
 ## 🚀 Funcionalidades 
 - ✅ Registro / Inicio de sesión usuarios.<br/>
-  Se puede registrar nuevos usuarios e iniciar sesión, así como cambiar el nombre de usuario y eliminar la cuenta.<br/>
+  Se puede registrar nuevos usuarios e iniciar sesión, así como cambiar el nombre de usuario y eliminar la cuenta.
+  <br/>
 - ✅ Gestión de familias.<br/>
-  Crear, unirse, invitar y salir de familias, donde pueden haber uno o más usuarios. <br/>
+  Crear, unirse, invitar y salir de familias, donde pueden haber uno o más usuarios.
+  <br/>
 - ✅ Gestión y asiganción de tareas.<br/>
-  Creación, edición, asignación, visualización y eliminación de tareas, tanto familiares (visibles y modificables por todos) como inidividuales.<br/>
+  Creación, edición, asignación, visualización y eliminación de tareas, tanto familiares (visibles y modificables por todos) como inidividuales.
+  <br/>
 - ✅ Lista de la compra.<br/>
   Creación, visualización, edición y eliminación de listas de la compra con sus respectivas secciones y productos.
   
@@ -25,6 +28,6 @@ Una aplicación desarrollado en Android Studio como trabajo fin de curso del cur
 :package: Puedes instalar el apk que corresponde al archivo app-release.apk, una vez instalado en el dispositivo Android se inicia la aplicación correctamente.
 
 
-## :registered: Autoras
+## Autoras
 - [Ángela Rogel González](https://github.com/angelaR0527) 
 - [Amélie Gambín Vitou](https://github.com/ameliegv) 
