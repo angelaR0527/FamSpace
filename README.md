@@ -1,5 +1,6 @@
 # 📱🏡 FamSpace
-![famspace icon](https://github.com/user-attachments/assets/c2bc82c4-e7c2-40fa-a1dc-e45afed5925f)
+![famspace icon]()
+<img src="[img/logotipo.png](https://github.com/user-attachments/assets/c2bc82c4-e7c2-40fa-a1dc-e45afed5925f)" width="40" alt="Logotipo FamSpace">
 Descripción breve:
 Una aplicación desarrollado en Android Studio como trabajo fin de curso del curso Desarrollo de Aplicaciones Multiplataforma. Esta aplicación consiste en centralizar funciones que permitan una gestión familiar colaborativa, donde uno o varios usuarios comparten mismos recursos para su porpia gestión.
 
@@ -25,8 +26,8 @@ Una aplicación desarrollado en Android Studio como trabajo fin de curso del cur
 
 ## ⚙️ Instalación
 ### 🔧 Requerimientos
-Dispositivo Android
-Versión Android 7.0 hasta 14 de junio 2025
+Dispositivo Android<br/>
+Versión Android 7.0 hasta 14 de junio 2025<br/>
 Puedes instalar el apk que corresponde al archivo app-release.apk, una vez instalado en el dispositivo Android se inicia la aplicación correctamente.
 
 
