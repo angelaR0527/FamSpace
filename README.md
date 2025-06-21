@@ -1,5 +1,4 @@
 # 📱🏡 FamSpace
-![famspace icon]()
 <img src="[img/logotipo.png](https://github.com/user-attachments/assets/c2bc82c4-e7c2-40fa-a1dc-e45afed5925f)" width="40" alt="Logotipo FamSpace">
 Descripción breve:
 Una aplicación desarrollado en Android Studio como trabajo fin de curso del curso Desarrollo de Aplicaciones Multiplataforma. Esta aplicación consiste en centralizar funciones que permitan una gestión familiar colaborativa, donde uno o varios usuarios comparten mismos recursos para su porpia gestión.
